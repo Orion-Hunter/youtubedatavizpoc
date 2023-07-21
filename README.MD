@@ -1,4 +1,4 @@
-## Como Instalar
+## Como Executar
 
 ### Docker
 Requisitos:
