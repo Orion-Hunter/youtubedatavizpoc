@@ -1,4 +1,4 @@
-## Como executar
+## Como Instalar
 
 ### Docker
 Requisitos:
@@ -11,6 +11,7 @@ Execute os seguintes comandos:
     `docker-compose build`
     `docker-compose up --detach`
 
+Uma vez que o servidor local tenha iniciado, acesse http://127.0.0.1:8050/
 ### Local
 Requisitos:
 
@@ -25,4 +26,4 @@ Execute os seguintes comandos:
 
    `python app.py` ou `poetry run python app.py`
 
-Uma vez que o sevidor local tenha iniciado, acesse http://127.0.0.1:8050/
+Uma vez que o servidor local tenha iniciado, acesse http://127.0.0.1:8050/
