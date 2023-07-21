@@ -1,6 +1,6 @@
 ## Como executar
 
-# Docker
+### Docker
 Requisitos:
 
  - Docker
@@ -11,7 +11,7 @@ Execute os seguintes comandos:
     `docker-compose build`
     `docker-compose up --detach`
 
-# Local
+### Local
 Requisitos:
 
  - Python
