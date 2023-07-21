@@ -8,8 +8,8 @@ Requisitos:
 
 Execute os seguintes comandos:
 
-    `docker-compose build`
-    `docker-compose up --detach`
+    docker-compose build
+    docker-compose up --detach
 
 Uma vez que o servidor local tenha iniciado, acesse http://127.0.0.1:8050/
 ### Local
