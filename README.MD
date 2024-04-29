@@ -1,3 +1,9 @@
+## Descrição do Projeto
+
+Projeto construído com o intuito de realizar a geração de nuvens de palavras utilizando como bases de dados vídeos no youtube de canais de direita e de canais de esquerda, com o fim de obter uma visualização 
+que mostrasse os termos mais frequentemente utilizados nos títulos dos videos e a partir disso identificar caracteríticas do discurso de ambos os espectros políticos.
+
+
 ## Como Executar
 
 ### Docker
